@@ -99,6 +99,7 @@ repositories {
     mavenCentral()
     jcenter()
     google()
+    maven { url 'https://jitpack.io' }
 }
 
 final String SUPPORT_LIBS_VERSION = '26.0.+'
